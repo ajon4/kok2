@@ -91,7 +91,7 @@ const TypeWriterText = () => {
         </Title>
         <SubTitle>Bored Of Apes? Try Something New.</SubTitle>
         <ButtonContainer>
-        <Button text="Explore" link="https://opensea.io/"/>
+        <Button text="Explore" link="https://opensea.io/nftwebe"/>
         </ButtonContainer>
         </>
     );
