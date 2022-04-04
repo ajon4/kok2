@@ -89,7 +89,7 @@ const TypeWriterText = () => {
   }}
 />
         </Title>
-        <SubTitle>Bored Of Apes? Try Something New.</SubTitle>
+        <SubTitle>obscurity until now.</SubTitle>
         <ButtonContainer>
         <Button text="Explore" link="https://opensea.io/nftwebe"/>
         </ButtonContainer>
