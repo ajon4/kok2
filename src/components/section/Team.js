@@ -23,7 +23,7 @@ border-bottom: 1px solid ${(props) => props.theme.carouselColor};
 width: fit-content;
 
 @media (max-width: 64em){
-    width: 100%;
+    width: 80%;
     text-align: center;
     }
     
