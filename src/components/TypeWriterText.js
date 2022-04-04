@@ -69,7 +69,7 @@ const TypeWriterText = () => {
     return(
         <>
         <Title>
-        Discover a new era of cool
+        Discover New Meaningful Images
         <Typewriter
         options={{
             autoStart:true,
