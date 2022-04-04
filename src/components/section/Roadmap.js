@@ -107,13 +107,16 @@ const Roadmap = () => {
                     The Black White Unity acts as proof that you have entered the WB Club. As a thank you for supporting the channel, you will have access to the following:
                    </SubText>
                    <SubTextLight>
+                   * Unite all mankind with my way of working
+                   </SubTextLight>
+                   <SubTextLight>
                    * Private discord channel for members
                    </SubTextLight>
                    <SubTextLight>
-                   * Chance to be an extra in Jomas videos (through Zoom or in-person if on location)
+                   * Early access to the benefits of a clean environment
                    </SubTextLight>
                    <SubTextLight>
-                   * Early access to new YouTube videos
+                   * Will not profit for personal purposes other than mother.
                    </SubTextLight>
                    <SubTextLight>
                    And more ...
