@@ -76,7 +76,6 @@ margin: 1rem auto;
 font-weight: 400;
 @media (max-width: 64em){
     width: 100%;
-    text-align: center;
     font-size: ${(props) => props.theme.fontmd};
     }
     
