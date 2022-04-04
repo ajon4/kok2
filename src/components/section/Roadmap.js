@@ -105,7 +105,7 @@ const Roadmap = () => {
                    Roadmap.
                    </Title>
                    <SubText>
-                    you will have access to the following:
+                    The Black White Unity acts as proof that you have entered the WB Club. As a thank you for supporting the channel, you will have access to the following:
                    </SubText>
                    <SubTextLight>
                    * Private discord channel for members
