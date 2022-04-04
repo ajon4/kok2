@@ -76,13 +76,13 @@ const TypeWriterText = () => {
             loop:true,
         }}
   onInit={(typewriter) => {
-    typewriter.typeString('<span class="text-1">NFTs.</span>')
+    typewriter.typeString('<span class="text-1">NFTWBEB.</span>')
     .pauseFor(2000)
     .deleteAll()
-    .typeString('<span class="text-2">WEBE.</span>')
+    .typeString('<span class="text-2">WhiteBlack.</span>')
     .pauseFor(2000)
     .deleteAll()
-    .typeString('<span class="text-3">Ambiguity!</span>')
+    .typeString('<span class="text-3">AMBIGUITY!</span>')
     .pauseFor(2000)
     .deleteAll()
     .start()
