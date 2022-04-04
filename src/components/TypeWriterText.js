@@ -11,6 +11,7 @@ color: ${props => props.theme.text};
 align-self: flex-start;
 
 @media (max-width: 48em){
+    font-size: 2em;
     align-self: center;
     text-align: center;
 }
