@@ -92,7 +92,7 @@ const TypeWriterText = () => {
         </Title>
         <SubTitle>obscurity until now.</SubTitle>
         <ButtonContainer>
-        <Button text="Explore" link="https://opensea.io/nftwebe"/>
+        <Button text="Explore" link="https://opensea.io/webezaknft"/>
         </ButtonContainer>
         </>
     );
