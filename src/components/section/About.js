@@ -111,10 +111,10 @@ const About = () => {
                <Box><Carousel/></Box>
                <Box>
                    <Title>
-                   Welcome To The NFT - Webe
+                   WEBE UNITE
                    </Title>
                    <SubText>
-                   The NFTWEBE is a private collection of NFTs—unique digital collectibles. The WEBE are stored as ERC-721 tokens on the Ethereum blockchain and hosted on IPFS.
+                   The NFTWEBE is a private collection of NFTs—unique digital collectibles. The WEBE are stored as ERC-721 tokens on the Ethereum blockchain.
                    </SubText>
                    <SubTextLight>
                    With more than 200+ hand drawn traits, each NFT is unique and comes with a membership to an exclusive group of successful investors. Join an ambitious ever-growing community with multiple benefits and utilities.
