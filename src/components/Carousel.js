@@ -10,6 +10,8 @@ import { Pagination, Navigation, Autoplay, EffectCards } from "swiper";
 
 import img1 from '../assets/Nfts/bighead.svg';
 import img2 from '../assets/Nfts/bighead-1.svg';
+import img3 from '../assets/Nfts/bighead-2.svg';
+import img4 from '../assets/Nfts/bighead-3.svg';
 import Arrow from '../assets/Arrow.svg'
 
 const Container = styled.div`
@@ -110,6 +112,8 @@ const Carousel = () => {
       >
         <SwiperSlide><img src={img1} alt="The Weirdos"/></SwiperSlide>
         <SwiperSlide><img src={img2} alt="The Weirdos"/></SwiperSlide>
+        <SwiperSlide><img src={img2} alt="The Weirdos"/></SwiperSlide>
+        <SwiperSlide><img src={img4} alt="The Weirdos"/></SwiperSlide>
       </Swiper>
         </Container>
     );
