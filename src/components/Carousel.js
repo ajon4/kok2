@@ -112,7 +112,7 @@ const Carousel = () => {
       >
         <SwiperSlide><img src={img1} alt="The Weirdos"/></SwiperSlide>
         <SwiperSlide><img src={img2} alt="The Weirdos"/></SwiperSlide>
-        <SwiperSlide><img src={img2} alt="The Weirdos"/></SwiperSlide>
+        <SwiperSlide><img src={img3} alt="The Weirdos"/></SwiperSlide>
         <SwiperSlide><img src={img4} alt="The Weirdos"/></SwiperSlide>
       </Swiper>
         </Container>
